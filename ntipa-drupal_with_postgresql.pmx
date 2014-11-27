@@ -1,11 +1,11 @@
 ---
-name: Drupal 7.28 with PostgreSQL 9.3
-description: Drupal 7.28 with PostgreSQL 9.3
+name: Ntipa Drupal 7.32 with PostgreSQL 9.3
+description: Drupal 7.32 with PostgreSQL 9.3
 keywords: drupal, postgres, postgresql, public, ntipa
 recommended: 
 type: Drupal
 documentation: |
-  Drupal 7.28 with PostgreSQL 9.3
+  Drupal 7.32 with PostgreSQL 9.3
   =========
   
   ##Instructions
